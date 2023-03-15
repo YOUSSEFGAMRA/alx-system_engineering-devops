@@ -1,2 +1,2 @@
-#!/bin/btall
-tail /etc/passwd
+#!/bin/bash
+#tail /etc/passwd
