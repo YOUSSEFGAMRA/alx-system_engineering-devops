@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bashi
-file  /tmp/iamafile
-=======
-#!/bin/ba
 file /tmp/iamafile
->>>>>>> a8c724a5fee767c5f47570a19b5915f6dadac71e
